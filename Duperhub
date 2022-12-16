@@ -78,7 +78,7 @@ _5Minutes.Size = UDim2.new(0, 213, 0, 65)
 
 _5Minutes.Font = Enum.Font.SourceSans
 
-_5Minutes.Text = "30 Minutes"
+_5Minutes.Text = "dupe takes 1 minutes"
 
 _5Minutes.TextColor3 = Color3.fromRGB(0, 0, 0)
 
